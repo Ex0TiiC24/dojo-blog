@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://www.java.com/en/"
+          href="https://www.youtube.com/watch?v=5TlGWHU_SQc"
           target="_blank"
           rel="noopener noreferrer"
         >
